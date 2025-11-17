@@ -16,7 +16,7 @@ gym.make('PongDeterministic-v4')
 
 
 ### Instructions
-* Follow the instructions in [`PongDeterministic-REINFORCE.ipynb`](https://github.com/bmaxdk/OpenAI-Gym-PongDeterministic-v4-REINFORCE/blob/main/PongDeterministic-REINFORCE.ipynb) to train and run the agent!
+* Follow the instructions in [`PongDeterministic-REINFORCE.ipynb`](https://github.com/Yupsecous/REINFORCE-algorithm/blob/main/PongDeterministic-REINFORCE.ipynb) to train and run the agent!
 ```bash
 $ git clone https://github.com/bmaxdk/OpenAI-Gym-PongDeterministic-v4-REINFORCE.git
 $ cd OpenAI-Gym-PongDeterministic-v4-REINFORCE
